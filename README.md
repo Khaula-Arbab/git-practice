@@ -1,4 +1,4 @@
 # git-practice
-learning how to work on git hub.
+Learning how to work on github.
 <br>
 Author - Khaula Arbab
